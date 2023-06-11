@@ -287,10 +287,10 @@ export default App;
 ```
 ## OUTPUT
 
-<img width="960" alt="Screenshot 2023-06-11 101441" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/703580d2-bbb7-47fc-b08d-1e73aed7d3df">
-<img width="960" alt="Screenshot 2023-06-11 101453" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/8d94c760-dc41-4997-9845-41ac513ed7f0">
-<img width="960" alt="Screenshot 2023-06-11 101503" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/920da7bf-798f-4e21-b43a-ebd7db21b353">
-<img width="960" alt="Screenshot 2023-06-11 101510" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/f1427321-72c6-42ba-ac8a-6c539cb180fe">
+<img width="960" alt="image" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/989da404-a8c8-4e0f-829e-118d60d8dd11">
+<img width="960" alt="image" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/933ac2ce-0ef7-4b2f-ab96-f718bb97475e">
+<img width="960" alt="image" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/1f599cf1-59f6-4645-9a45-bf6866042ea7">
+<img width="960" alt="image" src="https://github.com/Shavedha/Image-Carousel/assets/93427376/54cbad2b-5601-4eee-8939-6471eda4c37c">
 
 ## RESULT
 Thus an Carousel application using react is created successfully.
